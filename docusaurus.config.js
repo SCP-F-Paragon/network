@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'SCP-F', // Usually your GitHub org/user name.
-  projectName: 'Network', // Usually your repo name.
+  organizationName: 'SCP-F-Paragon', // Usually your GitHub org/user name.
+  projectName: 'network', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
