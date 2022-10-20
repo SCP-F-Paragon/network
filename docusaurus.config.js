@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SCP-F | Network',
   tagline: 'SCP Foundation Network | An Internal Network',
-  url: 'https://scpf.network/',
+  url: 'https://network.turret.cyou/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/SCP-F/Network/tree/main/',
+          editUrl: 'https://github.com/SCP-F-Paragon/network/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/SCP-F/Network/tree/main/',
+            'https://github.com/SCP-F-Paragon/network/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
